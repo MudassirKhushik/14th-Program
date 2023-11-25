@@ -6,7 +6,8 @@ int main (){
 	string uniname;
 	cout << "Enter your University name : " ;
 	getline (cin, uniname);
-	cout << "Your University is " << uniname << endl;
+	
+	cout << "Your University Name is " << uniname << endl;
 	
 	return 0;
 }
